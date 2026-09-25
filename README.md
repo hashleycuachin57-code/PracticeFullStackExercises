@@ -103,6 +103,3 @@ npm run dev # or npm start
 
 Feel free to clone this repository, experiment with the code, add features, or use it as a reference for your own learning journey in full-stack development...
 
-```
-
-```
